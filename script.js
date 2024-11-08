@@ -5,7 +5,7 @@ sheep.addEventListener('click', function () {
 
 bear.addEventListener('click', function () {
     console.log("bearimage")
-    document.getElementById('image').src = 'Images/bear.webp';
+    document.getElementById('image').src = 'images/bear.webp';
 });
 
 moose.addEventListener('click', function () {
