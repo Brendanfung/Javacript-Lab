@@ -1,0 +1,40 @@
+.header-container {
+    background-color: #120323;
+    color: #97bf04;
+    width: 100%;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#image {
+    width: 900px;
+    height: 600px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 5px #000000;
+    display: flex;
+    margin: auto;
+    margin-top: 1rem;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 1rem;
+}
+
+button {
+    background-color: #d9043d;
+    color: black;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: #97bf04;
+}
